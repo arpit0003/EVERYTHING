@@ -228,8 +228,8 @@ input#open {
   position: absolute;
   color: white;
   font-family: 'Mochiy Pop P One', sans-serif;
-  font-size: 30px;
-  transition: .3s;
+  font-size: 20px;
+  transition: 3s;
   width:300px;
   text-align: center;
   top:-165px;
